@@ -1,0 +1,36 @@
+html {
+    scroll-behavior: smooth;
+    overflow-x:hidden;
+}
+nav ul li:hover{
+    border-bottom: 1px solid black;
+}
+nav ul li{
+    border-color: white;
+}
+.jumbotron {
+    background-image: url("img/wallpaper.png");
+}
+.sosmed{
+    border-radius: 100px;
+    border:2px solid #28a745;
+}
+.sosmed:hover{
+    transform: scale(1.1);
+}
+.tombol {
+    border-radius: 40px;
+}
+.belakang {
+    margin-top: 20px;
+    background-color: #28a745;
+}
+hr {
+    border: none;
+    height: 3px;
+    color:#28a745;
+    background-color: #28a745;
+}
+.tes:hover{
+    transform: scale(1.2);
+}
